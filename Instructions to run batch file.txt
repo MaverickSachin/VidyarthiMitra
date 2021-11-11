@@ -1,0 +1,20 @@
+Installation required to run the batch file:
+
+1. Install Python
+2. Install packages: pandas, openpyxl
+
+
+Structure to follow in excel:
+
+1. Keep the first line empty
+2. Every block should start with "Admissions to Health Science Courses, 2020-2021" and end with "LEGEND: S-AIR, M-MARKS OBTAINED."
+3. Keep an empty line between these two "Admissions to Health Science Courses, 2020-2021" and "LEGEND: S-AIR, M-MARKS OBTAINED." after each block
+4. You can keep the "S: " or "M: " getting added to the college name, it gets handled in the script
+5. Make sure we have separation in each block (refer to point no. 1) as I have noticed for some blocks it was missing
+
+
+Keep the input file name as - "Input - NEET Opening Closing 2020.xlsx"
+
+Keep both batch file and input excel file at the same location
+
+Your output file will be stored at the same location with name as - "Output - NEET Opening Closing 2020.xlsx"

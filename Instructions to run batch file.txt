@@ -18,3 +18,23 @@ Keep the input file name as - "Input - NEET Opening Closing 2020.xlsx"
 Keep both batch file and input excel file at the same location
 
 Your output file will be stored at the same location with name as - "Output - NEET Opening Closing 2020.xlsx"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
